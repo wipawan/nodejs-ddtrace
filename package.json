@@ -1,0 +1,12 @@
+{
+  "name": "nodejs-image-ddtrace",
+  "version": "1.0.0",
+  "description": "simple nodejs app instrumented with dd tracer",
+  "author": "Mew <mew@datadog.com>",
+  "license": "MIT",
+  "main": "app.js",
+  "dependencies": {
+    "dd-trace": "^5.8.0",
+    "express": "^4.16.4"
+  }
+}
